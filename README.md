@@ -1,6 +1,5 @@
-﻿# Code-Capilot-Portfolio
-A Front-End Web Developer
-LinkedIn: https://www.linkedin.com/in/code-capilot-9a7991291
-TikTok: https://www.tiktok.com/@code_capilot?_r=1&_t=ZS-92w2AfWlLqp
+﻿# Bethel-Njoku-Portfolio
+A Web Developer & Growth Marketer
+Email: bethelnjoku001@gmail.com
+TikTok: https://www.tiktok.com/@bethel_njoku01
 WhatsApp: https://wa.me/2347072354979
-Gmail: mailto:codecapilot@gmail.com
